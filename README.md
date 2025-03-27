@@ -1,4 +1,4 @@
-BookBot 📖🤖
+BookBot 📖
 BookBot is a Python script that analyzes a book, counting the frequency of each letter and sorting them from highest to lowest.
 
 Features
